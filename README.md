@@ -46,8 +46,8 @@ From fine-tuning LLMs to creating full-stack apps, I love working on ideas that 
 
 ### 🏆 Highlights
 
-- 🧠 **Youngest Hackathon Participant** @ [Diversion 2k25](https://www.diversion.tech/)
-- 🔧 Maintainer & Founder of [EdgeX](https://github.com/ayush585/edgex)
+- 🧠 **Youngest Hackathon Participant** @ [Diversion 2k25](https://www.diversion.tech/) @ [StatusCode2](https://hackathon.iiitkalyani.ac.in/) @ [Metamorph2k25](https://www.meta-morph.tech/) @ [ETH_Global_INternatinal_New Delhi](https://ethglobal.com/events/newdelhi)
+- 🔧 Maintainer & Founder of [EdgeX](https://github.com/ayush585/edgex) [SmartChunk]()
 - 🧩 Building ethical training simulations with reinforcement learning
 - 📝 Active contributor to open-source and Medium blogs
 
