@@ -9,7 +9,7 @@
 
 ### 👋 Hello World!
 
-I’m **Ayushman Mukherjee**, a 15-year-old enthusiast passionate about building real-world AI and Web solutions.  
+I’m **Ayushman Mukherjee**, a 15-year-old enthusiast passionate about building real-world AI and Web3 solutions.  
 From fine-tuning LLMs to creating full-stack Web3 apps, I love working on ideas that solve real problems.
 
 ---
