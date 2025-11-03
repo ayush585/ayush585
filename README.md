@@ -1,6 +1,6 @@
 # 💻 Ayushman Mukherjee
 
-[![](https://img.shields.io/badge/Age-15-blue)]() [![](https://img.shields.io/badge/Role-AI%20%7C%20Web%20Dev-informational)]() [![](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)]()  
+[![](https://img.shields.io/badge/Age-15-blue)]() [![](https://img.shields.io/badge/Role-AI%20%7C%20Web3%20Dev-informational)]() [![](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)]()  
 [![](https://img.shields.io/badge/Hackathon%20Experience-Diversion%202k25-yellow)](https://www.diversion.tech/)  
 [![](https://img.shields.io/badge/Hackathon%20Experience-StatusCode%2-Track-winner-yellow)](https://hackathon.iiitkalyani.ac.in/)  
 📍 India &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 Learner | 🛠️ Builder | 🧩 Problem Solver  
@@ -10,7 +10,7 @@
 ### 👋 Hello World!
 
 I’m **Ayushman Mukherjee**, a 15-year-old enthusiast passionate about building real-world AI and Web solutions.  
-From fine-tuning LLMs to creating full-stack apps, I love working on ideas that solve real problems.
+From fine-tuning LLMs to creating full-stack Web3 apps, I love working on ideas that solve real problems.
 
 ---
 
