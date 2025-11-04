@@ -41,6 +41,11 @@ That’s why I founded **MindMorph Labs**, where we’re engineering **N3L (No-B
 
 ---
 
+---
+
+> 🧠 *This profile highlights both my AI infrastructure research (MindMorph Labs / N3L) and my full-stack development projects.*  
+> *I love building systems that make AI training and deployment accessible anywhere — from local CPUs to global-scale inference.*
+
 ### 🛠️ Skills & Tools  
 
 > *Bridging AI research, infrastructure, and full-stack systems.*
