@@ -1,5 +1,6 @@
 # 💻 Ayushman Mukherjee
 
+Founder at MindMorph Labs | Building N3L — the No-Backprop Revolution for CPU-first AI Training
 [![](https://img.shields.io/badge/Age-15-blue)]() [![](https://img.shields.io/badge/Role-AI%20%7C%20Web3%20Dev-informational)]() [![](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)]()  
 [![](https://img.shields.io/badge/Hackathon%20Experience-Diversion%202k25-yellow)](https://www.diversion.tech/)  
 [![](https://img.shields.io/badge/Hackathon%20Experience-StatusCode%2-Track-winner-yellow)](https://hackathon.iiitkalyani.ac.in/)  
