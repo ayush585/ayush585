@@ -41,6 +41,62 @@ That’s why I founded **MindMorph Labs**, where we’re engineering **N3L (No-B
 
 ---
 
+### 🧠 AI & Infrastructure Tech Stack  
+
+> *Designing AI systems that run anywhere — from GPUs to edge CPUs.*
+
+#### ⚙️ **Core Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-6A1B9A?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00BFA5?style=for-the-badge&logo=python&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%20%7C%20DoRA-0288D1?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/RL-00796B?style=for-the-badge)
+![Quantization](https://img.shields.io/badge/Quantization-8E24AA?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-3949AB?style=for-the-badge)
+
+#### 🧩 **Model Optimization & Algorithms**
+![Forward-Only Learning](https://img.shields.io/badge/Forward--Only%20Learning-263238?style=for-the-badge)
+![Local Credit Assignment](https://img.shields.io/badge/Local%20Learning-1E88E5?style=for-the-badge)
+![Low-Rank Adapters](https://img.shields.io/badge/Low--Rank%20Adapters-1976D2?style=for-the-badge)
+![Sketch Gradients](https://img.shields.io/badge/Sketch--Based%20Gradients-0097A7?style=for-the-badge)
+![Error Feedback](https://img.shields.io/badge/Error--Feedback-43A047?style=for-the-badge)
+![Trust Regions](https://img.shields.io/badge/Trust--Region%20Methods-00897B?style=for-the-badge)
+
+#### 🧠 **AI Infrastructure & Compute**
+![C++17](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyBind11](https://img.shields.io/badge/PyBind11-0277BD?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-4DD0E1?style=for-the-badge&logo=numpy&logoColor=black)
+![OpenBLAS](https://img.shields.io/badge/OpenBLAS-1565C0?style=for-the-badge)
+![oneDNN](https://img.shields.io/badge/oneDNN-5E35B1?style=for-the-badge)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-303F9F?style=for-the-badge&logo=onnx&logoColor=white)
+![CPU Training](https://img.shields.io/badge/CPU--Optimized%20Training-455A64?style=for-the-badge)
+![GGUF](https://img.shields.io/badge/GGUF%20Quantized%20Models-212121?style=for-the-badge)
+
+#### 📦 **Data & Experimentation**
+![Parquet](https://img.shields.io/badge/Parquet-90CAF9?style=for-the-badge)
+![JSONL](https://img.shields.io/badge/JSONL-29B6F6?style=for-the-badge)
+![Feature Sketching](https://img.shields.io/badge/Feature%20Sketching-00ACC1?style=for-the-badge)
+![LangChain RAG](https://img.shields.io/badge/RAG%20Pipelines-26A69A?style=for-the-badge)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFB300?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Curriculum Learning](https://img.shields.io/badge/Curriculum%20Learning-43A047?style=for-the-badge)
+
+#### 🧰 **DevOps & Environment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-00ADEF?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-2E7D32?style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-512DA8?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFCC00?style=for-the-badge&logo=linux&logoColor=black)
+![Python venv](https://img.shields.io/badge/Python%20Envs-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+
+---
+
+💡 **Currently exploring:**  
+`Federated CPU Learning` · `Deterministic Cache-Aware Scheduling` · `Synthetic Gradient Critics` · `Teacher-Cache Distillation`
+
+
 ### 🛠️ Skills & Tools
 
 | Domain         | Tools & Technologies                                                                 |
