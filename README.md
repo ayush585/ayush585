@@ -19,10 +19,8 @@ That’s why I founded **MindMorph Labs**, where we’re engineering **N3L (No-B
 
 ### 🚀 Featured Projects
 
-- 🧠 **MindMorph N3L** — Forward-only local learning for large models. CPU-only training with sketch-based low-rank adapters. *(Private Repository under MindMorph Labs)*  
-- 🧩 **BizHack Jr.** — AI-powered business simulation game built solo for **StatusCode 2 Hackathon**.  
-- ⚙️ **SmartChunk** — Python CLI for structure-aware document chunking in RAG pipelines.  
-- 🌐 **EdgeX** — Experimental decentralized edge-AI framework for on-device inference.  
+- 🧠 **MindMorph N3L** — Forward-only local learning for large models. CPU-only training with sketch-based low-rank adapters. *(Private Repository under MindMorph Labs)*    
+- ⚙️ **SmartChunk** — Python CLI for structure-aware document chunking in RAG pipelines.   
 
 ---
 
@@ -86,8 +84,8 @@ That’s why I founded **MindMorph Labs**, where we’re engineering **N3L (No-B
 ### 📫 Reach Out
 
 📧 [Email](mailto:ayushmanmukherjee12@gmail.com) •  
-🐦 [Twitter / X](https://twitter.com/AyushmanAI) •  
-💼 [LinkedIn](https://linkedin.com/in/ayushmanmukherjee) •  
+🐦 [Twitter / X](https://x.com/AYUSHMAN_Mukh) •  
+💼 [LinkedIn](https://www.linkedin.com/in/ayushman-mukherjee-437a49314/) •  
 📝 [Medium](https://medium.com/@ayushmanmukherjee)
 
 ---
@@ -98,5 +96,5 @@ That’s why I founded **MindMorph Labs**, where we’re engineering **N3L (No-B
 ---
 
 <p align="center">
-  <img src="https://your-banner-image-link.png" width="600"/>
+  <img src="https://ik.imagekit.io/1s8nbv86w/mindmorph_labs_cover.jpeg?updatedAt=1762277856417" width="600"/>
 </p>
