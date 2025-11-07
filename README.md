@@ -29,7 +29,7 @@ That’s why I founded **MindMorph Labs**, where we’re engineering **N3L (No-B
 - 🔬 Prototyping **forward-only optimization** for large language models.  
 - 🧩 Exploring **reinforcement learning** and decision-making in simulation environments.  
 - 📊 Building full-stack apps with **Flask + React + Firebase**.  
-- 🌐 Writing technical blogs & documenting my research journey on [Medium](https://medium.com/@ayushmanmukherjee).  
+- 🌐 Writing technical blogs & documenting my research journey on [Medium](https://medium.com/@ayushmanmukherjee12).  
 
 ---
 
