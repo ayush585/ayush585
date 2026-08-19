@@ -1,6 +1,6 @@
 # Ayushman “Ash” Mukherjee
 
-Founder-engineer building **context infrastructure, coding-agent systems, and scientific software**.
+**context infrastructure, coding-agent systems, and scientific software**.
 
 16 · Kolkata, India · TypeScript / Python · currently building **Loreflow**
 
