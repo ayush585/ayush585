@@ -1,58 +1,74 @@
 # Ayushman “Ash” Mukherjee
 
-**context infrastructure, coding-agent systems, and scientific software**.
+**systems, security, smart contracts, and context infrastructure**
 
-16 · Kolkata, India · TypeScript / Python · currently building **Loreflow**
+16 · Kolkata, India · TypeScript / Python / Solidity · currently building **Loreflow**
 
-I’m mostly interested in the layer around increasingly capable models: **context, retrieval, state, provenance, rollback, safety, and the systems that make agents useful outside a demo.**
+I like building systems where **state, correctness, recovery, provenance, and security actually matter** — from coding-agent infrastructure and developer security tooling to smart contracts and scientific software.
 
 ## Building now
 
-### [Loreflow](https://github.com/ayush585/loreflow) — Co-Founder
-**The company brain for fast-moving startups.**
+### [Loreflow](https://github.com/ayush585/loreflow) — Co-Founder / CTO
+**Context infrastructure for fast-moving engineering teams.**
 
-Company knowledge gets fragmented across docs, conversations, decisions, meetings, and tools. Loreflow is the context layer that turns that mess into something humans and AI can actually reason over.
+Loreflow connects fragmented knowledge across tools such as GitHub, Notion, Linear, docs, and conversations so teams and AI systems can recover what changed, why it changed, and the evidence behind it.
 
-`connectors → normalized entities → knowledge graph → semantic/vector retrieval → AI reasoning → source citations`
+`connectors → normalized entities → retrieval → reasoning → citations`
 
-Current product stack includes TypeScript, React 19, TanStack Start, Bun/Hono, Clerk Organizations, Supabase/PostgreSQL, and Drizzle. Loreflow is supported by **Microsoft for Startups** and **OpenAI for Startups**.
+Built with TypeScript, React, TanStack Start, Bun/Hono, PostgreSQL, Supabase, Drizzle, and external integration infrastructure.
 
-### RouteForge — Founder / Lead Engineer
-Closed-source scientific software for **reaction-constrained molecular discovery**. The system keeps proposed routes, provenance, uncertainty, disagreements, failures, and evidence attached to candidates instead of treating synthesizability as an afterthought.
+### [Solvency Queue Lab](https://github.com/ayush585/solvency-queue-lab)
+A Foundry security lab for **perp-DEX custody and settlement failure modes**.
 
-Customer discovery with drug-discovery operators pushed the product toward a route-and-evidence layer for expert review rather than another molecule generator.
+It explores asset/liability accounting, EIP-712 withdrawals, forced-withdrawal liveness, sequencer settlement, margin and liquidation, insurance/bad debt, funding, oracle safety, UUPS upgrades, timelocks, incident modes, and Base Mainnet fork testing.
 
-## Things I’ve shipped
+The emphasis is on reproducing broken invariants and then hardening them with adversarial tests, fuzzing, and stateful invariants.
+
+## Selected systems & security work
+
+### [SignDAO](https://github.com/ayush585/SignDAO-ETHOnline2025)
+ETHGlobal 2025 prototype combining **Semaphore zero-knowledge membership proofs, Solidity, and gesture-assisted DAO voting**.
+
+I later returned to the original prototype for a security-hardening pass: scoped proofs, nullifier/replay protection, group binding, relayer-compatible submission, voting-window checks, and adversarial contract tests.
 
 ### [Hyperion Delta](https://github.com/ayush585/Hyperion-Delta)
-A TypeScript SDK for local coding-agent checkpoint / fork / reconcile / rollback loops. Dirty-set restoration makes rollback scale with what the agent changed instead of the whole repository.
+A TypeScript SDK for coding-agent **checkpoint / fork / reconcile / rollback** workflows.
+
+Its rollback model tracks the dirty set rather than restoring an entire repository and includes durable recovery metadata, branch-conflict detection, failure handling, benchmarks, and release validation.
 
 `npm i hyperion-delta`
 
 ### [ButterFence](https://github.com/ayush585/ButterFence)
-A Claude Code-native safety harness that intercepts risky tool calls, red-teams repositories against destructive / secret-leaking agent behavior, and generates enforceable hooks + CI/SARIF reports.
+A Claude Code-native security harness for red-teaming repositories against destructive or secret-leaking agent behavior and generating enforceable safety hooks.
+
+Includes adversarial scenarios, secret scanning, behavioral-chain detection, CI/SARIF reporting, and live hook monitoring.
 
 `pip install butterfence`
 
-### [SmartChunk](https://github.com/ayush585/SmartChunk)
-Structure-aware semantic chunking for RAG pipelines: heading/list/table/code-block preservation, embedding-based boundaries, deduplication, noise removal, and metadata-rich output.
+### [Chronos](https://github.com/ayush585/Chronos)
+Built at **ETHGlobal New Delhi 2025**: a non-custodial recurring-payment interface for PayPal's PYUSD using Next.js, wagmi, viem, MetaMask, and Sepolia.
 
-### [Nexus-KDG](https://github.com/ayush585/KDG)
-Co-built a local-first AI egress gateway for source code with local repository indexing/search, context-pack generation, privacy-preserving routing, tamper-evident audit trails, and a VS Code/Cursor review surface.
+## Scientific / startup work
+
+### RouteForge — Founder / Lead Engineer
+Closed-source scientific software for **reaction-constrained molecular discovery and route evidence**.
+
+I built the core chemistry-validation, search, evaluation, provenance, and persistence systems and later shifted the product toward expert-readable route/evidence workflows after technical validation and customer discovery.
 
 ## Research / signals
 
-- Co-author of **“A Multi-Agent Orchestration Framework for Explainable Human-in-the-Loop AutoML”** — graph-orchestrated AutoML, SHAP/LIME explainability, human governance, and compliance-aware reporting
+- Co-author — **A Multi-Agent Orchestration Framework for Explainable Human-in-the-Loop AutoML**
 - **YC Startup School India 2026**
 - **IIT Guwahati Startup Expo 2026 — 2nd overall**
 - **Anthropic Built with Opus 4.6 — finalist**
+- **ETHGlobal New Delhi + ETHOnline**
 - **NASA Open Science — OS101 / OSE**
 - **Mistral AI Global Hackathon**
 
 ## Stack
 
-`TypeScript` `Python` `JavaScript` `React` `Next.js` `TanStack` `Node.js` `Bun` `Hono` `FastAPI` `PostgreSQL` `Supabase` `Drizzle` `Docker` `PyTorch` `LLM APIs` `RAG` `Embeddings` `Agent Systems`
+`Solidity` `Foundry` `TypeScript` `Python` `JavaScript` `React` `Node.js` `Bun` `Hono` `FastAPI` `PostgreSQL` `Docker` `EVM` `wagmi` `viem` `LLM systems` `RAG`
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/ayushman-mukherjee-437a49314/) · [X](https://x.com/AYUSHMAN_Mukh) · [ORCID](https://orcid.org/0009-0001-5119-7179) · [Medium](https://medium.com/@ayushmanmukherjee12) · ayushmanmukherjee12@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ayushman-mukherjee-437a49314/) · [X](https://x.com/AYUSHMAN_Mukh) · [ORCID](https://orcid.org/0009-0001-5119-7179) · [Medium](https://medium.com/@ayushmanmukherjee12)
